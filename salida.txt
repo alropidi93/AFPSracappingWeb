@@ -1,0 +1,81 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => <a href="http://www.adobe.com/go/getflashplayer/"
+            [1] => <a href="/finance/?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [2] => <a href="/finance/company_news?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB"
+            [3] => <a href="/finance/option_chain?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB"
+            [4] => <a href="/finance/related?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB"
+            [5] => <a href="/finance/historical?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB"
+            [6] => <a href="/finance?q=NYSE:AUY&amp;fstype=ii&amp;ei=kbRyWdnlGs3Aeqq8i9AB"
+            [7] => <a href="/finance?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [8] => <a href="/finance/market_news?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [9] => <a href="/finance/portfolio?action=view&amp;ei=kbRyWdnlGs3Aeqq8i9AB"
+            [10] => <a href="/finance/stockscreener?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [11] => <a href="/finance/domestic_trends?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [12] => <a href="//www.google.com/history/optout?hl=en"
+            [13] => <a href="/finance/portfolio?action=add&amp;addticker=NYSE%3AAUY&ei=kbRyWdnlGs3Aeqq8i9AB"
+            [14] => <a href="?noIL=1&q=Yamana+Gold+Inc.&ei=kbRyWdnlGs3Aeqq8i9AB"
+            [15] => <a href="//www.google.com/help/stock_disclaimer.html#realtime"
+            [16] => <a href="/finance/company_news?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB"
+            [17] => <a href="/finance/company_news?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB&output=rss"
+            [18] => <a href="/finance/company_news?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB&output=rss"
+            [19] => <a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.dailyfinance.com%2Fevent%2FAUY%2Fusa&ei=kbRyWdnlGs3Aeqq8i9AB&usg=AFQjCNHFrA2qQ9tWBoHb4GqMzmDN74OJCQ"
+            [20] => <a href="?catid=us-TRBC:5120108010&amp;ei=kbRyWdnlGs3Aeqq8i9AB"
+            [21] => <a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.factset.com%2Fdata%2Ffactset_data%2Findustry-and-sector&ei=kbRyWdnlGs3Aeqq8i9AB&usg=AFQjCNEwjtdbTurr7-5YrH7PDl9d0RWq0A"
+            [22] => <a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2FofficersDirectors.asp%3Fsymbol%3DAUY%26WTmodLOC%3DC4-Officers-5&ei=kbRyWdnlGs3Aeqq8i9AB&usg=AFQjCNEYYgNSP4k39l2Rwj2vOwG7BG3HjQ"
+            [23] => <a href="http://www.google.com.hk/finance?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [24] => <a href="http://www.google.ca/finance?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [25] => <a href="http://www.google.com/finance?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [26] => <a href="http://www.google.com.hk/finance?hl=zh-CN&ei=kbRyWdnlGs3Aeqq8i9AB"
+            [27] => <a href="http://www.google.co.uk/finance?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [28] => <a href="http://www.google.com/intl/en/googlefinance/disclaimer/?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [29] => <a href="http://www.google.com?hl=en&ei=kbRyWdnlGs3Aeqq8i9AB"
+            [30] => <a href="http://googlefinanceblog.blogspot.com?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [31] => <a href="http://support.google.com/finance?hl=en&ei=kbRyWdnlGs3Aeqq8i9AB"
+            [32] => <a href="http://support.google.com/finance?ctx=report&hl=en&ei=kbRyWdnlGs3Aeqq8i9AB&exch=NYSE&sym=AUY"
+            [33] => <a href="http://www.google.com/intl/en/policies/privacy/?ei=kbRyWdnlGs3Aeqq8i9AB"
+            [34] => <a href="http://www.google.com/intl/en/policies/terms/?ei=kbRyWdnlGs3Aeqq8i9AB"
+        )
+
+    [1] => Array
+        (
+            [0] => http://www.adobe.com/go/getflashplayer/
+            [1] => /finance/?ei=kbRyWdnlGs3Aeqq8i9AB
+            [2] => /finance/company_news?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB
+            [3] => /finance/option_chain?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB
+            [4] => /finance/related?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB
+            [5] => /finance/historical?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB
+            [6] => /finance?q=NYSE:AUY&amp;fstype=ii&amp;ei=kbRyWdnlGs3Aeqq8i9AB
+            [7] => /finance?ei=kbRyWdnlGs3Aeqq8i9AB
+            [8] => /finance/market_news?ei=kbRyWdnlGs3Aeqq8i9AB
+            [9] => /finance/portfolio?action=view&amp;ei=kbRyWdnlGs3Aeqq8i9AB
+            [10] => /finance/stockscreener?ei=kbRyWdnlGs3Aeqq8i9AB
+            [11] => /finance/domestic_trends?ei=kbRyWdnlGs3Aeqq8i9AB
+            [12] => //www.google.com/history/optout?hl=en
+            [13] => /finance/portfolio?action=add&amp;addticker=NYSE%3AAUY&ei=kbRyWdnlGs3Aeqq8i9AB
+            [14] => ?noIL=1&q=Yamana+Gold+Inc.&ei=kbRyWdnlGs3Aeqq8i9AB
+            [15] => //www.google.com/help/stock_disclaimer.html#realtime
+            [16] => /finance/company_news?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB
+            [17] => /finance/company_news?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB&output=rss
+            [18] => /finance/company_news?q=NYSE:AUY&amp;ei=kbRyWdnlGs3Aeqq8i9AB&output=rss
+            [19] => //www.google.com/url?source=finance&q=http%3A%2F%2Fwww.dailyfinance.com%2Fevent%2FAUY%2Fusa&ei=kbRyWdnlGs3Aeqq8i9AB&usg=AFQjCNHFrA2qQ9tWBoHb4GqMzmDN74OJCQ
+            [20] => ?catid=us-TRBC:5120108010&amp;ei=kbRyWdnlGs3Aeqq8i9AB
+            [21] => //www.google.com/url?source=finance&q=http%3A%2F%2Fwww.factset.com%2Fdata%2Ffactset_data%2Findustry-and-sector&ei=kbRyWdnlGs3Aeqq8i9AB&usg=AFQjCNEwjtdbTurr7-5YrH7PDl9d0RWq0A
+            [22] => //www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2FofficersDirectors.asp%3Fsymbol%3DAUY%26WTmodLOC%3DC4-Officers-5&ei=kbRyWdnlGs3Aeqq8i9AB&usg=AFQjCNEYYgNSP4k39l2Rwj2vOwG7BG3HjQ
+            [23] => http://www.google.com.hk/finance?ei=kbRyWdnlGs3Aeqq8i9AB
+            [24] => http://www.google.ca/finance?ei=kbRyWdnlGs3Aeqq8i9AB
+            [25] => http://www.google.com/finance?ei=kbRyWdnlGs3Aeqq8i9AB
+            [26] => http://www.google.com.hk/finance?hl=zh-CN&ei=kbRyWdnlGs3Aeqq8i9AB
+            [27] => http://www.google.co.uk/finance?ei=kbRyWdnlGs3Aeqq8i9AB
+            [28] => http://www.google.com/intl/en/googlefinance/disclaimer/?ei=kbRyWdnlGs3Aeqq8i9AB
+            [29] => http://www.google.com?hl=en&ei=kbRyWdnlGs3Aeqq8i9AB
+            [30] => http://googlefinanceblog.blogspot.com?ei=kbRyWdnlGs3Aeqq8i9AB
+            [31] => http://support.google.com/finance?hl=en&ei=kbRyWdnlGs3Aeqq8i9AB
+            [32] => http://support.google.com/finance?ctx=report&hl=en&ei=kbRyWdnlGs3Aeqq8i9AB&exch=NYSE&sym=AUY
+            [33] => http://www.google.com/intl/en/policies/privacy/?ei=kbRyWdnlGs3Aeqq8i9AB
+            [34] => http://www.google.com/intl/en/policies/terms/?ei=kbRyWdnlGs3Aeqq8i9AB
+        )
+
+)
